@@ -1,0 +1,38 @@
+{
+  "name": "zckyachmd",
+  "version": "1.0.0",
+  "description": "A personal card for Zacky Achmad (@zckyachmd)",
+  "main": "app.js",
+  "bin": {
+    "zckyachmd": "./app.js"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zckyachmd/npx-card.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm",
+    "card",
+    "npx",
+    "npx",
+    "card",
+    "business",
+    "card"
+  ],
+  "author": "Zacky Achmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zckyachmd/npx-card/issues"
+  },
+  "homepage": "https://github.com/zckyachmd/npx-card#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
