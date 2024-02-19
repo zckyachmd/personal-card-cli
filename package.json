@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A personal card for Zacky Achmad (@zckyachmd)",
   "main": "app.js",
+  "type": "module",
   "bin": {
     "zckyachmd": "./app.js"
   },
@@ -15,15 +16,9 @@
     "url": "git+https://github.com/zckyachmd/npx-card.git"
   },
   "keywords": [
-    "card",
-    "npm",
-    "npm",
-    "card",
-    "npx",
-    "npx",
-    "card",
     "business",
-    "card"
+    "card",
+    "npx"
   ],
   "author": "Zacky Achmad",
   "license": "MIT",
