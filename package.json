@@ -27,7 +27,12 @@
   },
   "homepage": "https://github.com/zckyachmd/npx-card#readme",
   "dependencies": {
+    "axios": "^1.6.7",
     "boxen": "^7.1.1",
-    "chalk": "^5.3.0"
+    "chalk": "^5.3.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.14",
+    "open": "^10.0.3",
+    "path": "^0.12.7"
   }
 }
